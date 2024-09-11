@@ -174,6 +174,7 @@ PRODUCT_PACKAGES += \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
+    FontRookeryOverlay \
     FontRubikOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneOverlay \
@@ -182,7 +183,7 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay \
-    FontRookeryOverlay
+    FontVolteOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
