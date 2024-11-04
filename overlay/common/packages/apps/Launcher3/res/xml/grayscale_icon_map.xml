@@ -3746,7 +3746,7 @@
     <icon drawable="@drawable/mi_health" package="com.mi.health" />
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthome" />
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthome.tv.global4" />
-    <icon drawable="@drawable/mi_music" package="com.crdroid.music" />
+    <icon drawable="@drawable/mi_music" package="com.blackiron.music" />
     <icon drawable="@drawable/mi_music" package="com.miui.player" />
     <icon drawable="@drawable/mi_music" package="com.nomad88.nomadmusic" />
     <icon drawable="@drawable/mi_remote" package="com.duokan.phone.remotecontroller" />
