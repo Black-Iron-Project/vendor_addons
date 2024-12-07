@@ -179,7 +179,8 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontRookeryOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
