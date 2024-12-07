@@ -18,6 +18,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
+    UdfpsIcons \
     UdfpsAnimations
 endif
 
