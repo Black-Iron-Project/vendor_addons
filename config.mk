@@ -417,6 +417,10 @@ PRODUCT_PACKAGES += \
     SmartSpaceOffset \
     HideClock
 
+# Aod wallpaper
+PRODUCT_PACKAGES += \
+    AODWALL
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
