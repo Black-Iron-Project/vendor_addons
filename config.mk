@@ -349,6 +349,10 @@ PRODUCT_PACKAGES += \
     PowerIOS \
     PowerLayers
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
